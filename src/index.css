@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'AvenirBlack';
+  src: url('./assets/fonts/Avenir\ Black.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirBook';
+  src: url('./assets/fonts/Avenir\ Book.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirHeavy';
+  src: url('./assets/fonts/Avenir\ Heavy.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirLight';
+  src: url('./assets/fonts/Avenir\ Light.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirMedium';
+  src: url('./assets/fonts/Avenir\ Medium.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirRoman';
+  src: url('./assets/fonts/Avenir\ Roman.otf') format('truetype');
+}
